@@ -1,6 +1,6 @@
 # Advanced Port Scanner
 
-## PortHawk
+## PortHawk by Hawksec
 
 PortHawk is python based port and services scanner
 It can be used with a variety of options
